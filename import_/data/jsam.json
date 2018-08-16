@@ -1,0 +1,1803 @@
+{
+  "estados": [
+    {
+      "idestados": "2",
+      "idpaisesestados": "2",
+      "nomeestados": "Holguin"
+    },
+    {
+      "idestados": "3",
+      "idpaisesestados": "2",
+      "nomeestados": "Havana"
+    },
+    {
+      "idestados": "4",
+      "idpaisesestados": "3",
+      "nomeestados": "Assuncion"
+    },
+    {
+      "idestados": "5",
+      "idpaisesestados": "3",
+      "nomeestados": "Capiat\u00e1"
+    },
+    {
+      "idestados": "6",
+      "idpaisesestados": "3",
+      "nomeestados": "Pedro Juan Caballero"
+    },
+    {
+      "idestados": "7",
+      "idpaisesestados": "2",
+      "nomeestados": "Santiago de Cuba"
+    },
+    {
+      "idestados": "8",
+      "idpaisesestados": "2",
+      "nomeestados": "Granma"
+    },
+    {
+      "idestados": "9",
+      "idpaisesestados": "2",
+      "nomeestados": "Las Tunas"
+    },
+    {
+      "idestados": "10",
+      "idpaisesestados": "2",
+      "nomeestados": "Guant\u00e1namo"
+    },
+    {
+      "idestados": "11",
+      "idpaisesestados": "2",
+      "nomeestados": "Camaguey"
+    },
+    {
+      "idestados": "12",
+      "idpaisesestados": "4",
+      "nomeestados": "Ilha de Uno"
+    },
+    {
+      "idestados": "13",
+      "idpaisesestados": "2",
+      "nomeestados": "Baracoa"
+    },
+    {
+      "idestados": "15",
+      "idpaisesestados": "3",
+      "nomeestados": "Alto Paran\u00e1"
+    },
+    {
+      "idestados": "16",
+      "idpaisesestados": "2",
+      "nomeestados": "Contramaestre"
+    },
+    {
+      "idestados": "17",
+      "idpaisesestados": "2",
+      "nomeestados": "Ilha da Juventude"
+    }
+  ],
+  "paises": [
+    {
+      "idpaises": "2",
+      "idtodospaises": "63"
+    },
+    {
+      "idpaises": "4",
+      "idtodospaises": "99"
+    },
+    {
+      "idpaises": "3",
+      "idtodospaises": "176"
+    }
+  ],
+  "todospaises": [
+    {
+      "idtodospaises": "1",
+      "isotodospaises": "AF",
+      "iso3todospaises": "AFG",
+      "numcodetodospaises": "4",
+      "nometodospaises": "Afeganist\u00e3o"
+    },
+    {
+      "idtodospaises": "2",
+      "isotodospaises": "ZA",
+      "iso3todospaises": "ZAF",
+      "numcodetodospaises": "710",
+      "nometodospaises": "\u00c1frica do Sul"
+    },
+    {
+      "idtodospaises": "3",
+      "isotodospaises": "AX",
+      "iso3todospaises": "ALA",
+      "numcodetodospaises": "248",
+      "nometodospaises": "\u00c5land, Ilhas"
+    },
+    {
+      "idtodospaises": "4",
+      "isotodospaises": "AL",
+      "iso3todospaises": "ALB",
+      "numcodetodospaises": "8",
+      "nometodospaises": "Alb\u00e2nia"
+    },
+    {
+      "idtodospaises": "5",
+      "isotodospaises": "DE",
+      "iso3todospaises": "DEU",
+      "numcodetodospaises": "276",
+      "nometodospaises": "Alemanha"
+    },
+    {
+      "idtodospaises": "6",
+      "isotodospaises": "AD",
+      "iso3todospaises": "AND",
+      "numcodetodospaises": "20",
+      "nometodospaises": "Andorra"
+    },
+    {
+      "idtodospaises": "7",
+      "isotodospaises": "AO",
+      "iso3todospaises": "AGO",
+      "numcodetodospaises": "24",
+      "nometodospaises": "Angola"
+    },
+    {
+      "idtodospaises": "8",
+      "isotodospaises": "AI",
+      "iso3todospaises": "AIA",
+      "numcodetodospaises": "660",
+      "nometodospaises": "Anguilla"
+    },
+    {
+      "idtodospaises": "9",
+      "isotodospaises": "AQ",
+      "iso3todospaises": "ATA",
+      "numcodetodospaises": "10",
+      "nometodospaises": "Ant\u00e1rctida"
+    },
+    {
+      "idtodospaises": "10",
+      "isotodospaises": "AG",
+      "iso3todospaises": "ATG",
+      "numcodetodospaises": "28",
+      "nometodospaises": "Antigua e Barbuda"
+    },
+    {
+      "idtodospaises": "11",
+      "isotodospaises": "AN",
+      "iso3todospaises": "ANT",
+      "numcodetodospaises": "530",
+      "nometodospaises": "Antilhas Holandesas"
+    },
+    {
+      "idtodospaises": "12",
+      "isotodospaises": "SA",
+      "iso3todospaises": "SAU",
+      "numcodetodospaises": "682",
+      "nometodospaises": "Ar\u00e1bia Saudita"
+    },
+    {
+      "idtodospaises": "13",
+      "isotodospaises": "DZ",
+      "iso3todospaises": "DZA",
+      "numcodetodospaises": "12",
+      "nometodospaises": "Arg\u00e9lia"
+    },
+    {
+      "idtodospaises": "14",
+      "isotodospaises": "AR",
+      "iso3todospaises": "ARG",
+      "numcodetodospaises": "32",
+      "nometodospaises": "Argentina"
+    },
+    {
+      "idtodospaises": "15",
+      "isotodospaises": "AM",
+      "iso3todospaises": "ARM",
+      "numcodetodospaises": "51",
+      "nometodospaises": "Arm\u00e9nia"
+    },
+    {
+      "idtodospaises": "16",
+      "isotodospaises": "AW",
+      "iso3todospaises": "ABW",
+      "numcodetodospaises": "533",
+      "nometodospaises": "Aruba"
+    },
+    {
+      "idtodospaises": "17",
+      "isotodospaises": "AU",
+      "iso3todospaises": "AUS",
+      "numcodetodospaises": "36",
+      "nometodospaises": "Austr\u00e1lia"
+    },
+    {
+      "idtodospaises": "18",
+      "isotodospaises": "AT",
+      "iso3todospaises": "AUT",
+      "numcodetodospaises": "40",
+      "nometodospaises": "\u00c1ustria"
+    },
+    {
+      "idtodospaises": "19",
+      "isotodospaises": "AZ",
+      "iso3todospaises": "AZE",
+      "numcodetodospaises": "31",
+      "nometodospaises": "Azerbeij\u00e3o"
+    },
+    {
+      "idtodospaises": "20",
+      "isotodospaises": "BS",
+      "iso3todospaises": "BHS",
+      "numcodetodospaises": "44",
+      "nometodospaises": "Bahamas"
+    },
+    {
+      "idtodospaises": "21",
+      "isotodospaises": "BH",
+      "iso3todospaises": "BHR",
+      "numcodetodospaises": "48",
+      "nometodospaises": "Bahrain"
+    },
+    {
+      "idtodospaises": "22",
+      "isotodospaises": "BD",
+      "iso3todospaises": "BGD",
+      "numcodetodospaises": "50",
+      "nometodospaises": "Bangladesh"
+    },
+    {
+      "idtodospaises": "23",
+      "isotodospaises": "BB",
+      "iso3todospaises": "BRB",
+      "numcodetodospaises": "52",
+      "nometodospaises": "Barbados"
+    },
+    {
+      "idtodospaises": "24",
+      "isotodospaises": "BE",
+      "iso3todospaises": "BEL",
+      "numcodetodospaises": "56",
+      "nometodospaises": "B\u00e9lgica"
+    },
+    {
+      "idtodospaises": "25",
+      "isotodospaises": "BZ",
+      "iso3todospaises": "BLZ",
+      "numcodetodospaises": "84",
+      "nometodospaises": "Belize"
+    },
+    {
+      "idtodospaises": "26",
+      "isotodospaises": "BJ",
+      "iso3todospaises": "BEN",
+      "numcodetodospaises": "204",
+      "nometodospaises": "Benin"
+    },
+    {
+      "idtodospaises": "27",
+      "isotodospaises": "BM",
+      "iso3todospaises": "BMU",
+      "numcodetodospaises": "60",
+      "nometodospaises": "Bermuda"
+    },
+    {
+      "idtodospaises": "28",
+      "isotodospaises": "BY",
+      "iso3todospaises": "BLR",
+      "numcodetodospaises": "112",
+      "nometodospaises": "Bielo-R\u00fassia"
+    },
+    {
+      "idtodospaises": "29",
+      "isotodospaises": "BO",
+      "iso3todospaises": "BOL",
+      "numcodetodospaises": "68",
+      "nometodospaises": "Bol\u00edvia"
+    },
+    {
+      "idtodospaises": "30",
+      "isotodospaises": "BA",
+      "iso3todospaises": "BIH",
+      "numcodetodospaises": "70",
+      "nometodospaises": "B\u00f3snia-Herzegovina"
+    },
+    {
+      "idtodospaises": "31",
+      "isotodospaises": "BW",
+      "iso3todospaises": "BWA",
+      "numcodetodospaises": "72",
+      "nometodospaises": "Botswana"
+    },
+    {
+      "idtodospaises": "32",
+      "isotodospaises": "BV",
+      "iso3todospaises": "BVT",
+      "numcodetodospaises": "74",
+      "nometodospaises": "Bouvet, Ilha"
+    },
+    {
+      "idtodospaises": "33",
+      "isotodospaises": "BR",
+      "iso3todospaises": "BRA",
+      "numcodetodospaises": "76",
+      "nometodospaises": "Brasil"
+    },
+    {
+      "idtodospaises": "34",
+      "isotodospaises": "BN",
+      "iso3todospaises": "BRN",
+      "numcodetodospaises": "96",
+      "nometodospaises": "Brunei"
+    },
+    {
+      "idtodospaises": "35",
+      "isotodospaises": "BG",
+      "iso3todospaises": "BGR",
+      "numcodetodospaises": "100",
+      "nometodospaises": "Bulg\u00e1ria"
+    },
+    {
+      "idtodospaises": "36",
+      "isotodospaises": "BF",
+      "iso3todospaises": "BFA",
+      "numcodetodospaises": "854",
+      "nometodospaises": "Burkina Faso"
+    },
+    {
+      "idtodospaises": "37",
+      "isotodospaises": "BI",
+      "iso3todospaises": "BDI",
+      "numcodetodospaises": "108",
+      "nometodospaises": "Burundi"
+    },
+    {
+      "idtodospaises": "38",
+      "isotodospaises": "BT",
+      "iso3todospaises": "BTN",
+      "numcodetodospaises": "64",
+      "nometodospaises": "But\u00e3o"
+    },
+    {
+      "idtodospaises": "39",
+      "isotodospaises": "CV",
+      "iso3todospaises": "CPV",
+      "numcodetodospaises": "132",
+      "nometodospaises": "Cabo Verde"
+    },
+    {
+      "idtodospaises": "40",
+      "isotodospaises": "KH",
+      "iso3todospaises": "KHM",
+      "numcodetodospaises": "116",
+      "nometodospaises": "Cambodja"
+    },
+    {
+      "idtodospaises": "41",
+      "isotodospaises": "CM",
+      "iso3todospaises": "CMR",
+      "numcodetodospaises": "120",
+      "nometodospaises": "Camar\u00f5es"
+    },
+    {
+      "idtodospaises": "42",
+      "isotodospaises": "CA",
+      "iso3todospaises": "CAN",
+      "numcodetodospaises": "124",
+      "nometodospaises": "Canad\u00e1"
+    },
+    {
+      "idtodospaises": "43",
+      "isotodospaises": "KY",
+      "iso3todospaises": "CYM",
+      "numcodetodospaises": "136",
+      "nometodospaises": "Cayman, Ilhas"
+    },
+    {
+      "idtodospaises": "44",
+      "isotodospaises": "KZ",
+      "iso3todospaises": "KAZ",
+      "numcodetodospaises": "398",
+      "nometodospaises": "Cazaquist\u00e3o"
+    },
+    {
+      "idtodospaises": "45",
+      "isotodospaises": "CF",
+      "iso3todospaises": "CAF",
+      "numcodetodospaises": "140",
+      "nometodospaises": "Centro-africana, Rep\u00fablica"
+    },
+    {
+      "idtodospaises": "46",
+      "isotodospaises": "TD",
+      "iso3todospaises": "TCD",
+      "numcodetodospaises": "148",
+      "nometodospaises": "Chade"
+    },
+    {
+      "idtodospaises": "47",
+      "isotodospaises": "CZ",
+      "iso3todospaises": "CZE",
+      "numcodetodospaises": "203",
+      "nometodospaises": "Checa, Rep\u00fablica"
+    },
+    {
+      "idtodospaises": "48",
+      "isotodospaises": "CL",
+      "iso3todospaises": "CHL",
+      "numcodetodospaises": "152",
+      "nometodospaises": "Chile"
+    },
+    {
+      "idtodospaises": "49",
+      "isotodospaises": "CN",
+      "iso3todospaises": "CHN",
+      "numcodetodospaises": "156",
+      "nometodospaises": "China"
+    },
+    {
+      "idtodospaises": "50",
+      "isotodospaises": "CY",
+      "iso3todospaises": "CYP",
+      "numcodetodospaises": "196",
+      "nometodospaises": "Chipre"
+    },
+    {
+      "idtodospaises": "51",
+      "isotodospaises": "CX",
+      "iso3todospaises": "CXR",
+      "numcodetodospaises": "162",
+      "nometodospaises": "Christmas, Ilha"
+    },
+    {
+      "idtodospaises": "52",
+      "isotodospaises": "CC",
+      "iso3todospaises": "CCK",
+      "numcodetodospaises": "166",
+      "nometodospaises": "Cocos, Ilhas"
+    },
+    {
+      "idtodospaises": "53",
+      "isotodospaises": "CO",
+      "iso3todospaises": "COL",
+      "numcodetodospaises": "170",
+      "nometodospaises": "Col\u00f4mbia"
+    },
+    {
+      "idtodospaises": "54",
+      "isotodospaises": "KM",
+      "iso3todospaises": "COM",
+      "numcodetodospaises": "174",
+      "nometodospaises": "Comores"
+    },
+    {
+      "idtodospaises": "55",
+      "isotodospaises": "CG",
+      "iso3todospaises": "COG",
+      "numcodetodospaises": "178",
+      "nometodospaises": "Congo, Rep\u00fablica do"
+    },
+    {
+      "idtodospaises": "56",
+      "isotodospaises": "CD",
+      "iso3todospaises": "COD",
+      "numcodetodospaises": "180",
+      "nometodospaises": "Congo, Rep\u00fablica Democr\u00e1tica do (antigo Zaire)"
+    },
+    {
+      "idtodospaises": "57",
+      "isotodospaises": "CK",
+      "iso3todospaises": "COK",
+      "numcodetodospaises": "184",
+      "nometodospaises": "Cook, Ilhas"
+    },
+    {
+      "idtodospaises": "58",
+      "isotodospaises": "KR",
+      "iso3todospaises": "KOR",
+      "numcodetodospaises": "410",
+      "nometodospaises": "Coreia do Sul"
+    },
+    {
+      "idtodospaises": "59",
+      "isotodospaises": "KP",
+      "iso3todospaises": "PRK",
+      "numcodetodospaises": "408",
+      "nometodospaises": "Coreia, Rep\u00fablica Democr\u00e1tica da (Coreia do Norte)"
+    },
+    {
+      "idtodospaises": "60",
+      "isotodospaises": "CI",
+      "iso3todospaises": "CIV",
+      "numcodetodospaises": "384",
+      "nometodospaises": "Costa do Marfim"
+    },
+    {
+      "idtodospaises": "61",
+      "isotodospaises": "CR",
+      "iso3todospaises": "CRI",
+      "numcodetodospaises": "188",
+      "nometodospaises": "Costa Rica"
+    },
+    {
+      "idtodospaises": "62",
+      "isotodospaises": "HR",
+      "iso3todospaises": "HRV",
+      "numcodetodospaises": "191",
+      "nometodospaises": "Cro\u00e1cia"
+    },
+    {
+      "idtodospaises": "63",
+      "isotodospaises": "CU",
+      "iso3todospaises": "CUB",
+      "numcodetodospaises": "192",
+      "nometodospaises": "Cuba"
+    },
+    {
+      "idtodospaises": "64",
+      "isotodospaises": "DK",
+      "iso3todospaises": "DNK",
+      "numcodetodospaises": "208",
+      "nometodospaises": "Dinamarca"
+    },
+    {
+      "idtodospaises": "65",
+      "isotodospaises": "DJ",
+      "iso3todospaises": "DJI",
+      "numcodetodospaises": "262",
+      "nometodospaises": "Djibouti"
+    },
+    {
+      "idtodospaises": "66",
+      "isotodospaises": "DM",
+      "iso3todospaises": "DMA",
+      "numcodetodospaises": "212",
+      "nometodospaises": "Dominica"
+    },
+    {
+      "idtodospaises": "67",
+      "isotodospaises": "DO",
+      "iso3todospaises": "DOM",
+      "numcodetodospaises": "214",
+      "nometodospaises": "Dominicana, Rep\u00fablica"
+    },
+    {
+      "idtodospaises": "68",
+      "isotodospaises": "EG",
+      "iso3todospaises": "EGY",
+      "numcodetodospaises": "818",
+      "nometodospaises": "Egipto"
+    },
+    {
+      "idtodospaises": "69",
+      "isotodospaises": "SV",
+      "iso3todospaises": "SLV",
+      "numcodetodospaises": "222",
+      "nometodospaises": "El Salvador"
+    },
+    {
+      "idtodospaises": "70",
+      "isotodospaises": "AE",
+      "iso3todospaises": "ARE",
+      "numcodetodospaises": "784",
+      "nometodospaises": "Emiratos \u00c1rabes Unidos"
+    },
+    {
+      "idtodospaises": "71",
+      "isotodospaises": "EC",
+      "iso3todospaises": "ECU",
+      "numcodetodospaises": "218",
+      "nometodospaises": "Equador"
+    },
+    {
+      "idtodospaises": "72",
+      "isotodospaises": "ER",
+      "iso3todospaises": "ERI",
+      "numcodetodospaises": "232",
+      "nometodospaises": "Eritreia"
+    },
+    {
+      "idtodospaises": "73",
+      "isotodospaises": "SK",
+      "iso3todospaises": "SVK",
+      "numcodetodospaises": "703",
+      "nometodospaises": "Eslov\u00e1quia"
+    },
+    {
+      "idtodospaises": "74",
+      "isotodospaises": "SI",
+      "iso3todospaises": "SVN",
+      "numcodetodospaises": "705",
+      "nometodospaises": "Eslov\u00e9nia"
+    },
+    {
+      "idtodospaises": "75",
+      "isotodospaises": "ES",
+      "iso3todospaises": "ESP",
+      "numcodetodospaises": "724",
+      "nometodospaises": "Espanha"
+    },
+    {
+      "idtodospaises": "76",
+      "isotodospaises": "US",
+      "iso3todospaises": "USA",
+      "numcodetodospaises": "840",
+      "nometodospaises": "Estados Unidos da Am\u00e9rica"
+    },
+    {
+      "idtodospaises": "77",
+      "isotodospaises": "EE",
+      "iso3todospaises": "EST",
+      "numcodetodospaises": "233",
+      "nometodospaises": "Est\u00f3nia"
+    },
+    {
+      "idtodospaises": "78",
+      "isotodospaises": "ET",
+      "iso3todospaises": "ETH",
+      "numcodetodospaises": "231",
+      "nometodospaises": "Eti\u00f3pia"
+    },
+    {
+      "idtodospaises": "79",
+      "isotodospaises": "FO",
+      "iso3todospaises": "FRO",
+      "numcodetodospaises": "234",
+      "nometodospaises": "Faroe, Ilhas"
+    },
+    {
+      "idtodospaises": "80",
+      "isotodospaises": "FJ",
+      "iso3todospaises": "FJI",
+      "numcodetodospaises": "242",
+      "nometodospaises": "Fiji"
+    },
+    {
+      "idtodospaises": "81",
+      "isotodospaises": "PH",
+      "iso3todospaises": "PHL",
+      "numcodetodospaises": "608",
+      "nometodospaises": "Filipinas"
+    },
+    {
+      "idtodospaises": "82",
+      "isotodospaises": "FI",
+      "iso3todospaises": "FIN",
+      "numcodetodospaises": "246",
+      "nometodospaises": "Finl\u00e2ndia"
+    },
+    {
+      "idtodospaises": "83",
+      "isotodospaises": "FR",
+      "iso3todospaises": "FRA",
+      "numcodetodospaises": "250",
+      "nometodospaises": "Fran\u00e7a"
+    },
+    {
+      "idtodospaises": "84",
+      "isotodospaises": "GA",
+      "iso3todospaises": "GAB",
+      "numcodetodospaises": "266",
+      "nometodospaises": "Gab\u00e3o"
+    },
+    {
+      "idtodospaises": "85",
+      "isotodospaises": "GM",
+      "iso3todospaises": "GMB",
+      "numcodetodospaises": "270",
+      "nometodospaises": "G\u00e2mbia"
+    },
+    {
+      "idtodospaises": "86",
+      "isotodospaises": "GH",
+      "iso3todospaises": "GHA",
+      "numcodetodospaises": "288",
+      "nometodospaises": "Gana"
+    },
+    {
+      "idtodospaises": "87",
+      "isotodospaises": "GE",
+      "iso3todospaises": "GEO",
+      "numcodetodospaises": "268",
+      "nometodospaises": "Ge\u00f3rgia"
+    },
+    {
+      "idtodospaises": "88",
+      "isotodospaises": "GS",
+      "iso3todospaises": "SGS",
+      "numcodetodospaises": "239",
+      "nometodospaises": "Ge\u00f3rgia do Sul e Sandwich do Sul, Ilhas"
+    },
+    {
+      "idtodospaises": "89",
+      "isotodospaises": "GI",
+      "iso3todospaises": "GIB",
+      "numcodetodospaises": "292",
+      "nometodospaises": "Gibraltar"
+    },
+    {
+      "idtodospaises": "90",
+      "isotodospaises": "GR",
+      "iso3todospaises": "GRC",
+      "numcodetodospaises": "300",
+      "nometodospaises": "Gr\u00e9cia"
+    },
+    {
+      "idtodospaises": "91",
+      "isotodospaises": "GD",
+      "iso3todospaises": "GRD",
+      "numcodetodospaises": "308",
+      "nometodospaises": "Grenada"
+    },
+    {
+      "idtodospaises": "92",
+      "isotodospaises": "GL",
+      "iso3todospaises": "GRL",
+      "numcodetodospaises": "304",
+      "nometodospaises": "Gronel\u00e2ndia"
+    },
+    {
+      "idtodospaises": "93",
+      "isotodospaises": "GP",
+      "iso3todospaises": "GLP",
+      "numcodetodospaises": "312",
+      "nometodospaises": "Guadeloupe"
+    },
+    {
+      "idtodospaises": "94",
+      "isotodospaises": "GU",
+      "iso3todospaises": "GUM",
+      "numcodetodospaises": "316",
+      "nometodospaises": "Guam"
+    },
+    {
+      "idtodospaises": "95",
+      "isotodospaises": "GT",
+      "iso3todospaises": "GTM",
+      "numcodetodospaises": "320",
+      "nometodospaises": "Guatemala"
+    },
+    {
+      "idtodospaises": "96",
+      "isotodospaises": "GG",
+      "iso3todospaises": "GGY",
+      "numcodetodospaises": "831",
+      "nometodospaises": "Guernsey"
+    },
+    {
+      "idtodospaises": "97",
+      "isotodospaises": "GY",
+      "iso3todospaises": "GUY",
+      "numcodetodospaises": "328",
+      "nometodospaises": "Guiana"
+    },
+    {
+      "idtodospaises": "98",
+      "isotodospaises": "GF",
+      "iso3todospaises": "GUF",
+      "numcodetodospaises": "254",
+      "nometodospaises": "Guiana Francesa"
+    },
+    {
+      "idtodospaises": "99",
+      "isotodospaises": "GW",
+      "iso3todospaises": "GNB",
+      "numcodetodospaises": "624",
+      "nometodospaises": "Guin\u00e9-Bissau"
+    },
+    {
+      "idtodospaises": "100",
+      "isotodospaises": "GN",
+      "iso3todospaises": "GIN",
+      "numcodetodospaises": "324",
+      "nometodospaises": "Guin\u00e9-Conacri"
+    },
+    {
+      "idtodospaises": "101",
+      "isotodospaises": "GQ",
+      "iso3todospaises": "GNQ",
+      "numcodetodospaises": "226",
+      "nometodospaises": "Guin\u00e9 Equatorial"
+    },
+    {
+      "idtodospaises": "102",
+      "isotodospaises": "HT",
+      "iso3todospaises": "HTI",
+      "numcodetodospaises": "332",
+      "nometodospaises": "Haiti"
+    },
+    {
+      "idtodospaises": "103",
+      "isotodospaises": "HM",
+      "iso3todospaises": "HMD",
+      "numcodetodospaises": "334",
+      "nometodospaises": "Heard e Ilhas McDonald, Ilha"
+    },
+    {
+      "idtodospaises": "104",
+      "isotodospaises": "HN",
+      "iso3todospaises": "HND",
+      "numcodetodospaises": "340",
+      "nometodospaises": "Honduras"
+    },
+    {
+      "idtodospaises": "105",
+      "isotodospaises": "HK",
+      "iso3todospaises": "HKG",
+      "numcodetodospaises": "344",
+      "nometodospaises": "Hong Kong"
+    },
+    {
+      "idtodospaises": "106",
+      "isotodospaises": "HU",
+      "iso3todospaises": "HUN",
+      "numcodetodospaises": "348",
+      "nometodospaises": "Hungria"
+    },
+    {
+      "idtodospaises": "107",
+      "isotodospaises": "YE",
+      "iso3todospaises": "YEM",
+      "numcodetodospaises": "887",
+      "nometodospaises": "I\u00e9men"
+    },
+    {
+      "idtodospaises": "108",
+      "isotodospaises": "IN",
+      "iso3todospaises": "IND",
+      "numcodetodospaises": "356",
+      "nometodospaises": "\u00cdndia"
+    },
+    {
+      "idtodospaises": "109",
+      "isotodospaises": "ID",
+      "iso3todospaises": "IDN",
+      "numcodetodospaises": "360",
+      "nometodospaises": "Indon\u00e9sia"
+    },
+    {
+      "idtodospaises": "110",
+      "isotodospaises": "IQ",
+      "iso3todospaises": "IRQ",
+      "numcodetodospaises": "368",
+      "nometodospaises": "Iraque"
+    },
+    {
+      "idtodospaises": "111",
+      "isotodospaises": "IR",
+      "iso3todospaises": "IRN",
+      "numcodetodospaises": "364",
+      "nometodospaises": "Ir\u00e3o"
+    },
+    {
+      "idtodospaises": "112",
+      "isotodospaises": "IE",
+      "iso3todospaises": "IRL",
+      "numcodetodospaises": "372",
+      "nometodospaises": "Irlanda"
+    },
+    {
+      "idtodospaises": "113",
+      "isotodospaises": "IS",
+      "iso3todospaises": "ISL",
+      "numcodetodospaises": "352",
+      "nometodospaises": "Isl\u00e2ndia"
+    },
+    {
+      "idtodospaises": "114",
+      "isotodospaises": "IL",
+      "iso3todospaises": "ISR",
+      "numcodetodospaises": "376",
+      "nometodospaises": "Israel"
+    },
+    {
+      "idtodospaises": "115",
+      "isotodospaises": "IT",
+      "iso3todospaises": "ITA",
+      "numcodetodospaises": "380",
+      "nometodospaises": "It\u00e1lia"
+    },
+    {
+      "idtodospaises": "116",
+      "isotodospaises": "JM",
+      "iso3todospaises": "JAM",
+      "numcodetodospaises": "388",
+      "nometodospaises": "Jamaica"
+    },
+    {
+      "idtodospaises": "117",
+      "isotodospaises": "JP",
+      "iso3todospaises": "JPN",
+      "numcodetodospaises": "392",
+      "nometodospaises": "Jap\u00e3o"
+    },
+    {
+      "idtodospaises": "118",
+      "isotodospaises": "JE",
+      "iso3todospaises": "JEY",
+      "numcodetodospaises": "832",
+      "nometodospaises": "Jersey"
+    },
+    {
+      "idtodospaises": "119",
+      "isotodospaises": "JO",
+      "iso3todospaises": "JOR",
+      "numcodetodospaises": "400",
+      "nometodospaises": "Jord\u00e2nia"
+    },
+    {
+      "idtodospaises": "120",
+      "isotodospaises": "KI",
+      "iso3todospaises": "KIR",
+      "numcodetodospaises": "296",
+      "nometodospaises": "Kiribati"
+    },
+    {
+      "idtodospaises": "121",
+      "isotodospaises": "KW",
+      "iso3todospaises": "KWT",
+      "numcodetodospaises": "414",
+      "nometodospaises": "Kuwait"
+    },
+    {
+      "idtodospaises": "122",
+      "isotodospaises": "LA",
+      "iso3todospaises": "LAO",
+      "numcodetodospaises": "418",
+      "nometodospaises": "Laos"
+    },
+    {
+      "idtodospaises": "123",
+      "isotodospaises": "LS",
+      "iso3todospaises": "LSO",
+      "numcodetodospaises": "426",
+      "nometodospaises": "Lesoto"
+    },
+    {
+      "idtodospaises": "124",
+      "isotodospaises": "LV",
+      "iso3todospaises": "LVA",
+      "numcodetodospaises": "428",
+      "nometodospaises": "Let\u00f3nia"
+    },
+    {
+      "idtodospaises": "125",
+      "isotodospaises": "LB",
+      "iso3todospaises": "LBN",
+      "numcodetodospaises": "422",
+      "nometodospaises": "L\u00edbano"
+    },
+    {
+      "idtodospaises": "126",
+      "isotodospaises": "LR",
+      "iso3todospaises": "LBR",
+      "numcodetodospaises": "430",
+      "nometodospaises": "Lib\u00e9ria"
+    },
+    {
+      "idtodospaises": "127",
+      "isotodospaises": "LY",
+      "iso3todospaises": "LBY",
+      "numcodetodospaises": "434",
+      "nometodospaises": "L\u00edbia"
+    },
+    {
+      "idtodospaises": "128",
+      "isotodospaises": "LI",
+      "iso3todospaises": "LIE",
+      "numcodetodospaises": "438",
+      "nometodospaises": "Liechtenstein"
+    },
+    {
+      "idtodospaises": "129",
+      "isotodospaises": "LT",
+      "iso3todospaises": "LTU",
+      "numcodetodospaises": "440",
+      "nometodospaises": "Litu\u00e2nia"
+    },
+    {
+      "idtodospaises": "130",
+      "isotodospaises": "LU",
+      "iso3todospaises": "LUX",
+      "numcodetodospaises": "442",
+      "nometodospaises": "Luxemburgo"
+    },
+    {
+      "idtodospaises": "131",
+      "isotodospaises": "MO",
+      "iso3todospaises": "MAC",
+      "numcodetodospaises": "446",
+      "nometodospaises": "Macau"
+    },
+    {
+      "idtodospaises": "132",
+      "isotodospaises": "MK",
+      "iso3todospaises": "MKD",
+      "numcodetodospaises": "807",
+      "nometodospaises": "Maced\u00f3nia, Rep\u00fablica da"
+    },
+    {
+      "idtodospaises": "133",
+      "isotodospaises": "MG",
+      "iso3todospaises": "MDG",
+      "numcodetodospaises": "450",
+      "nometodospaises": "Madag\u00e1scar"
+    },
+    {
+      "idtodospaises": "134",
+      "isotodospaises": "MY",
+      "iso3todospaises": "MYS",
+      "numcodetodospaises": "458",
+      "nometodospaises": "Mal\u00e1sia"
+    },
+    {
+      "idtodospaises": "135",
+      "isotodospaises": "MW",
+      "iso3todospaises": "MWI",
+      "numcodetodospaises": "454",
+      "nometodospaises": "Malawi"
+    },
+    {
+      "idtodospaises": "136",
+      "isotodospaises": "MV",
+      "iso3todospaises": "MDV",
+      "numcodetodospaises": "462",
+      "nometodospaises": "Maldivas"
+    },
+    {
+      "idtodospaises": "137",
+      "isotodospaises": "ML",
+      "iso3todospaises": "MLI",
+      "numcodetodospaises": "466",
+      "nometodospaises": "Mali"
+    },
+    {
+      "idtodospaises": "138",
+      "isotodospaises": "MT",
+      "iso3todospaises": "MLT",
+      "numcodetodospaises": "470",
+      "nometodospaises": "Malta"
+    },
+    {
+      "idtodospaises": "139",
+      "isotodospaises": "FK",
+      "iso3todospaises": "FLK",
+      "numcodetodospaises": "238",
+      "nometodospaises": "Malvinas, Ilhas (Falkland)"
+    },
+    {
+      "idtodospaises": "140",
+      "isotodospaises": "IM",
+      "iso3todospaises": "IMN",
+      "numcodetodospaises": "833",
+      "nometodospaises": "Man, Ilha de"
+    },
+    {
+      "idtodospaises": "141",
+      "isotodospaises": "MP",
+      "iso3todospaises": "MNP",
+      "numcodetodospaises": "580",
+      "nometodospaises": "Marianas Setentrionais"
+    },
+    {
+      "idtodospaises": "142",
+      "isotodospaises": "MA",
+      "iso3todospaises": "MAR",
+      "numcodetodospaises": "504",
+      "nometodospaises": "Marrocos"
+    },
+    {
+      "idtodospaises": "143",
+      "isotodospaises": "MH",
+      "iso3todospaises": "MHL",
+      "numcodetodospaises": "584",
+      "nometodospaises": "Marshall, Ilhas"
+    },
+    {
+      "idtodospaises": "144",
+      "isotodospaises": "MQ",
+      "iso3todospaises": "MTQ",
+      "numcodetodospaises": "474",
+      "nometodospaises": "Martinica"
+    },
+    {
+      "idtodospaises": "145",
+      "isotodospaises": "MU",
+      "iso3todospaises": "MUS",
+      "numcodetodospaises": "480",
+      "nometodospaises": "Maur\u00edcia"
+    },
+    {
+      "idtodospaises": "146",
+      "isotodospaises": "MR",
+      "iso3todospaises": "MRT",
+      "numcodetodospaises": "478",
+      "nometodospaises": "Maurit\u00e2nia"
+    },
+    {
+      "idtodospaises": "147",
+      "isotodospaises": "YT",
+      "iso3todospaises": "MYT",
+      "numcodetodospaises": "175",
+      "nometodospaises": "Mayotte"
+    },
+    {
+      "idtodospaises": "148",
+      "isotodospaises": "UM",
+      "iso3todospaises": "UMI",
+      "numcodetodospaises": "581",
+      "nometodospaises": "Menores Distantes dos Estados Unidos, Ilhas"
+    },
+    {
+      "idtodospaises": "149",
+      "isotodospaises": "MX",
+      "iso3todospaises": "MEX",
+      "numcodetodospaises": "484",
+      "nometodospaises": "M\u00e9xico"
+    },
+    {
+      "idtodospaises": "150",
+      "isotodospaises": "MM",
+      "iso3todospaises": "MMR",
+      "numcodetodospaises": "104",
+      "nometodospaises": "Myanmar (antiga Birm\u00e2nia)"
+    },
+    {
+      "idtodospaises": "151",
+      "isotodospaises": "FM",
+      "iso3todospaises": "FSM",
+      "numcodetodospaises": "583",
+      "nometodospaises": "Micron\u00e9sia, Estados Federados da"
+    },
+    {
+      "idtodospaises": "152",
+      "isotodospaises": "MZ",
+      "iso3todospaises": "MOZ",
+      "numcodetodospaises": "508",
+      "nometodospaises": "Mo\u00e7ambique"
+    },
+    {
+      "idtodospaises": "153",
+      "isotodospaises": "MD",
+      "iso3todospaises": "MDA",
+      "numcodetodospaises": "498",
+      "nometodospaises": "Mold\u00e1via"
+    },
+    {
+      "idtodospaises": "154",
+      "isotodospaises": "MC",
+      "iso3todospaises": "MCO",
+      "numcodetodospaises": "492",
+      "nometodospaises": "M\u00f3naco"
+    },
+    {
+      "idtodospaises": "155",
+      "isotodospaises": "MN",
+      "iso3todospaises": "MNG",
+      "numcodetodospaises": "496",
+      "nometodospaises": "Mong\u00f3lia"
+    },
+    {
+      "idtodospaises": "156",
+      "isotodospaises": "ME",
+      "iso3todospaises": "MNE",
+      "numcodetodospaises": "499",
+      "nometodospaises": "Montenegro"
+    },
+    {
+      "idtodospaises": "157",
+      "isotodospaises": "MS",
+      "iso3todospaises": "MSR",
+      "numcodetodospaises": "500",
+      "nometodospaises": "Montserrat"
+    },
+    {
+      "idtodospaises": "158",
+      "isotodospaises": "NA",
+      "iso3todospaises": "NAM",
+      "numcodetodospaises": "516",
+      "nometodospaises": "Nam\u00edbia"
+    },
+    {
+      "idtodospaises": "159",
+      "isotodospaises": "NR",
+      "iso3todospaises": "NRU",
+      "numcodetodospaises": "520",
+      "nometodospaises": "Nauru"
+    },
+    {
+      "idtodospaises": "160",
+      "isotodospaises": "NP",
+      "iso3todospaises": "NPL",
+      "numcodetodospaises": "524",
+      "nometodospaises": "Nepal"
+    },
+    {
+      "idtodospaises": "161",
+      "isotodospaises": "NI",
+      "iso3todospaises": "NIC",
+      "numcodetodospaises": "558",
+      "nometodospaises": "Nicar\u00e1gua"
+    },
+    {
+      "idtodospaises": "162",
+      "isotodospaises": "NE",
+      "iso3todospaises": "NER",
+      "numcodetodospaises": "562",
+      "nometodospaises": "N\u00edger"
+    },
+    {
+      "idtodospaises": "163",
+      "isotodospaises": "NG",
+      "iso3todospaises": "NGA",
+      "numcodetodospaises": "566",
+      "nometodospaises": "Nig\u00e9ria"
+    },
+    {
+      "idtodospaises": "164",
+      "isotodospaises": "NU",
+      "iso3todospaises": "NIU",
+      "numcodetodospaises": "570",
+      "nometodospaises": "Niue"
+    },
+    {
+      "idtodospaises": "165",
+      "isotodospaises": "NF",
+      "iso3todospaises": "NFK",
+      "numcodetodospaises": "574",
+      "nometodospaises": "Norfolk, Ilha"
+    },
+    {
+      "idtodospaises": "166",
+      "isotodospaises": "NO",
+      "iso3todospaises": "NOR",
+      "numcodetodospaises": "578",
+      "nometodospaises": "Noruega"
+    },
+    {
+      "idtodospaises": "167",
+      "isotodospaises": "NC",
+      "iso3todospaises": "NCL",
+      "numcodetodospaises": "540",
+      "nometodospaises": "Nova Caled\u00f3nia"
+    },
+    {
+      "idtodospaises": "168",
+      "isotodospaises": "NZ",
+      "iso3todospaises": "NZL",
+      "numcodetodospaises": "554",
+      "nometodospaises": "Nova Zel\u00e2ndia (Aotearoa)"
+    },
+    {
+      "idtodospaises": "169",
+      "isotodospaises": "OM",
+      "iso3todospaises": "OMN",
+      "numcodetodospaises": "512",
+      "nometodospaises": "Oman"
+    },
+    {
+      "idtodospaises": "170",
+      "isotodospaises": "NL",
+      "iso3todospaises": "NLD",
+      "numcodetodospaises": "528",
+      "nometodospaises": "Pa\u00edses Baixos (Holanda)"
+    },
+    {
+      "idtodospaises": "171",
+      "isotodospaises": "PW",
+      "iso3todospaises": "PLW",
+      "numcodetodospaises": "585",
+      "nometodospaises": "Palau"
+    },
+    {
+      "idtodospaises": "172",
+      "isotodospaises": "PS",
+      "iso3todospaises": "PSE",
+      "numcodetodospaises": "275",
+      "nometodospaises": "Palestina"
+    },
+    {
+      "idtodospaises": "173",
+      "isotodospaises": "PA",
+      "iso3todospaises": "PAN",
+      "numcodetodospaises": "591",
+      "nometodospaises": "Panam\u00e1"
+    },
+    {
+      "idtodospaises": "174",
+      "isotodospaises": "PG",
+      "iso3todospaises": "PNG",
+      "numcodetodospaises": "598",
+      "nometodospaises": "Papua-Nova Guin\u00e9"
+    },
+    {
+      "idtodospaises": "175",
+      "isotodospaises": "PK",
+      "iso3todospaises": "PAK",
+      "numcodetodospaises": "586",
+      "nometodospaises": "Paquist\u00e3o"
+    },
+    {
+      "idtodospaises": "176",
+      "isotodospaises": "PY",
+      "iso3todospaises": "PRY",
+      "numcodetodospaises": "600",
+      "nometodospaises": "Paraguai"
+    },
+    {
+      "idtodospaises": "177",
+      "isotodospaises": "PE",
+      "iso3todospaises": "PER",
+      "numcodetodospaises": "604",
+      "nometodospaises": "Peru"
+    },
+    {
+      "idtodospaises": "178",
+      "isotodospaises": "PN",
+      "iso3todospaises": "PCN",
+      "numcodetodospaises": "612",
+      "nometodospaises": "Pitcairn"
+    },
+    {
+      "idtodospaises": "179",
+      "isotodospaises": "PF",
+      "iso3todospaises": "PYF",
+      "numcodetodospaises": "258",
+      "nometodospaises": "Polin\u00e9sia Francesa"
+    },
+    {
+      "idtodospaises": "180",
+      "isotodospaises": "PL",
+      "iso3todospaises": "POL",
+      "numcodetodospaises": "616",
+      "nometodospaises": "Pol\u00f3nia"
+    },
+    {
+      "idtodospaises": "181",
+      "isotodospaises": "PR",
+      "iso3todospaises": "PRI",
+      "numcodetodospaises": "630",
+      "nometodospaises": "Porto Rico"
+    },
+    {
+      "idtodospaises": "182",
+      "isotodospaises": "PT",
+      "iso3todospaises": "PRT",
+      "numcodetodospaises": "620",
+      "nometodospaises": "Portugal"
+    },
+    {
+      "idtodospaises": "183",
+      "isotodospaises": "QA",
+      "iso3todospaises": "QAT",
+      "numcodetodospaises": "634",
+      "nometodospaises": "Qatar"
+    },
+    {
+      "idtodospaises": "184",
+      "isotodospaises": "KE",
+      "iso3todospaises": "KEN",
+      "numcodetodospaises": "404",
+      "nometodospaises": "Qu\u00e9nia"
+    },
+    {
+      "idtodospaises": "185",
+      "isotodospaises": "KG",
+      "iso3todospaises": "KGZ",
+      "numcodetodospaises": "417",
+      "nometodospaises": "Quirguist\u00e3o"
+    },
+    {
+      "idtodospaises": "186",
+      "isotodospaises": "GB",
+      "iso3todospaises": "GBR",
+      "numcodetodospaises": "826",
+      "nometodospaises": "Reino Unido da Gr\u00e3-Bretanha e Irlanda do Norte"
+    },
+    {
+      "idtodospaises": "187",
+      "isotodospaises": "RE",
+      "iso3todospaises": "REU",
+      "numcodetodospaises": "638",
+      "nometodospaises": "Reuni\u00e3o"
+    },
+    {
+      "idtodospaises": "188",
+      "isotodospaises": "RO",
+      "iso3todospaises": "ROU",
+      "numcodetodospaises": "642",
+      "nometodospaises": "Rom\u00e9nia"
+    },
+    {
+      "idtodospaises": "189",
+      "isotodospaises": "RW",
+      "iso3todospaises": "RWA",
+      "numcodetodospaises": "646",
+      "nometodospaises": "Ruanda"
+    },
+    {
+      "idtodospaises": "190",
+      "isotodospaises": "RU",
+      "iso3todospaises": "RUS",
+      "numcodetodospaises": "643",
+      "nometodospaises": "R\u00fassia"
+    },
+    {
+      "idtodospaises": "191",
+      "isotodospaises": "EH",
+      "iso3todospaises": "ESH",
+      "numcodetodospaises": "732",
+      "nometodospaises": "Saara Ocidental"
+    },
+    {
+      "idtodospaises": "192",
+      "isotodospaises": "AS",
+      "iso3todospaises": "ASM",
+      "numcodetodospaises": "16",
+      "nometodospaises": "Samoa Americana"
+    },
+    {
+      "idtodospaises": "193",
+      "isotodospaises": "WS",
+      "iso3todospaises": "WSM",
+      "numcodetodospaises": "882",
+      "nometodospaises": "Samoa (Samoa Ocidental)"
+    },
+    {
+      "idtodospaises": "194",
+      "isotodospaises": "PM",
+      "iso3todospaises": "SPM",
+      "numcodetodospaises": "666",
+      "nometodospaises": "Saint Pierre et Miquelon"
+    },
+    {
+      "idtodospaises": "195",
+      "isotodospaises": "SB",
+      "iso3todospaises": "SLB",
+      "numcodetodospaises": "90",
+      "nometodospaises": "Salom\u00e3o, Ilhas"
+    },
+    {
+      "idtodospaises": "196",
+      "isotodospaises": "KN",
+      "iso3todospaises": "KNA",
+      "numcodetodospaises": "659",
+      "nometodospaises": "S\u00e3o Crist\u00f3v\u00e3o e N\u00e9vis (Saint Kitts e Nevis)"
+    },
+    {
+      "idtodospaises": "197",
+      "isotodospaises": "SM",
+      "iso3todospaises": "SMR",
+      "numcodetodospaises": "674",
+      "nometodospaises": "San Marino"
+    },
+    {
+      "idtodospaises": "198",
+      "isotodospaises": "ST",
+      "iso3todospaises": "STP",
+      "numcodetodospaises": "678",
+      "nometodospaises": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+    },
+    {
+      "idtodospaises": "199",
+      "isotodospaises": "VC",
+      "iso3todospaises": "VCT",
+      "numcodetodospaises": "670",
+      "nometodospaises": "S\u00e3o Vicente e Granadinas"
+    },
+    {
+      "idtodospaises": "200",
+      "isotodospaises": "SH",
+      "iso3todospaises": "SHN",
+      "numcodetodospaises": "654",
+      "nometodospaises": "Santa Helena"
+    },
+    {
+      "idtodospaises": "201",
+      "isotodospaises": "LC",
+      "iso3todospaises": "LCA",
+      "numcodetodospaises": "662",
+      "nometodospaises": "Santa L\u00facia"
+    },
+    {
+      "idtodospaises": "202",
+      "isotodospaises": "SN",
+      "iso3todospaises": "SEN",
+      "numcodetodospaises": "686",
+      "nometodospaises": "Senegal"
+    },
+    {
+      "idtodospaises": "203",
+      "isotodospaises": "SL",
+      "iso3todospaises": "SLE",
+      "numcodetodospaises": "694",
+      "nometodospaises": "Serra Leoa"
+    },
+    {
+      "idtodospaises": "204",
+      "isotodospaises": "RS",
+      "iso3todospaises": "SRB",
+      "numcodetodospaises": "688",
+      "nometodospaises": "S\u00e9rvia"
+    },
+    {
+      "idtodospaises": "205",
+      "isotodospaises": "SC",
+      "iso3todospaises": "SYC",
+      "numcodetodospaises": "690",
+      "nometodospaises": "Seychelles"
+    },
+    {
+      "idtodospaises": "206",
+      "isotodospaises": "SG",
+      "iso3todospaises": "SGP",
+      "numcodetodospaises": "702",
+      "nometodospaises": "Singapura"
+    },
+    {
+      "idtodospaises": "207",
+      "isotodospaises": "SY",
+      "iso3todospaises": "SYR",
+      "numcodetodospaises": "760",
+      "nometodospaises": "S\u00edria"
+    },
+    {
+      "idtodospaises": "208",
+      "isotodospaises": "SO",
+      "iso3todospaises": "SOM",
+      "numcodetodospaises": "706",
+      "nometodospaises": "Som\u00e1lia"
+    },
+    {
+      "idtodospaises": "209",
+      "isotodospaises": "LK",
+      "iso3todospaises": "LKA",
+      "numcodetodospaises": "144",
+      "nometodospaises": "Sri Lanka"
+    },
+    {
+      "idtodospaises": "210",
+      "isotodospaises": "SZ",
+      "iso3todospaises": "SWZ",
+      "numcodetodospaises": "748",
+      "nometodospaises": "Suazil\u00e2ndia"
+    },
+    {
+      "idtodospaises": "211",
+      "isotodospaises": "SD",
+      "iso3todospaises": "SDN",
+      "numcodetodospaises": "736",
+      "nometodospaises": "Sud\u00e3o"
+    },
+    {
+      "idtodospaises": "212",
+      "isotodospaises": "SE",
+      "iso3todospaises": "SWE",
+      "numcodetodospaises": "752",
+      "nometodospaises": "Su\u00e9cia"
+    },
+    {
+      "idtodospaises": "213",
+      "isotodospaises": "CH",
+      "iso3todospaises": "CHE",
+      "numcodetodospaises": "756",
+      "nometodospaises": "Su\u00ed\u00e7a"
+    },
+    {
+      "idtodospaises": "214",
+      "isotodospaises": "SR",
+      "iso3todospaises": "SUR",
+      "numcodetodospaises": "740",
+      "nometodospaises": "Suriname"
+    },
+    {
+      "idtodospaises": "215",
+      "isotodospaises": "SJ",
+      "iso3todospaises": "SJM",
+      "numcodetodospaises": "744",
+      "nometodospaises": "Svalbard e Jan Mayen"
+    },
+    {
+      "idtodospaises": "216",
+      "isotodospaises": "TH",
+      "iso3todospaises": "THA",
+      "numcodetodospaises": "764",
+      "nometodospaises": "Tail\u00e2ndia"
+    },
+    {
+      "idtodospaises": "217",
+      "isotodospaises": "TW",
+      "iso3todospaises": "TWN",
+      "numcodetodospaises": "158",
+      "nometodospaises": "Taiwan"
+    },
+    {
+      "idtodospaises": "218",
+      "isotodospaises": "TJ",
+      "iso3todospaises": "TJK",
+      "numcodetodospaises": "762",
+      "nometodospaises": "Tajiquist\u00e3o"
+    },
+    {
+      "idtodospaises": "219",
+      "isotodospaises": "TZ",
+      "iso3todospaises": "TZA",
+      "numcodetodospaises": "834",
+      "nometodospaises": "Tanz\u00e2nia"
+    },
+    {
+      "idtodospaises": "220",
+      "isotodospaises": "TF",
+      "iso3todospaises": "ATF",
+      "numcodetodospaises": "260",
+      "nometodospaises": "Terras Austrais e Ant\u00e1rticas Francesas (TAAF)"
+    },
+    {
+      "idtodospaises": "221",
+      "isotodospaises": "IO",
+      "iso3todospaises": "IOT",
+      "numcodetodospaises": "86",
+      "nometodospaises": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
+    },
+    {
+      "idtodospaises": "222",
+      "isotodospaises": "TL",
+      "iso3todospaises": "TLS",
+      "numcodetodospaises": "626",
+      "nometodospaises": "Timor-Leste"
+    },
+    {
+      "idtodospaises": "223",
+      "isotodospaises": "TG",
+      "iso3todospaises": "TGO",
+      "numcodetodospaises": "768",
+      "nometodospaises": "Togo"
+    },
+    {
+      "idtodospaises": "224",
+      "isotodospaises": "TK",
+      "iso3todospaises": "TKL",
+      "numcodetodospaises": "772",
+      "nometodospaises": "Toquelau"
+    },
+    {
+      "idtodospaises": "225",
+      "isotodospaises": "TO",
+      "iso3todospaises": "TON",
+      "numcodetodospaises": "776",
+      "nometodospaises": "Tonga"
+    },
+    {
+      "idtodospaises": "226",
+      "isotodospaises": "TT",
+      "iso3todospaises": "TTO",
+      "numcodetodospaises": "780",
+      "nometodospaises": "Trindade e Tobago"
+    },
+    {
+      "idtodospaises": "227",
+      "isotodospaises": "TN",
+      "iso3todospaises": "TUN",
+      "numcodetodospaises": "788",
+      "nometodospaises": "Tun\u00edsia"
+    },
+    {
+      "idtodospaises": "228",
+      "isotodospaises": "TC",
+      "iso3todospaises": "TCA",
+      "numcodetodospaises": "796",
+      "nometodospaises": "Turks e Caicos"
+    },
+    {
+      "idtodospaises": "229",
+      "isotodospaises": "TM",
+      "iso3todospaises": "TKM",
+      "numcodetodospaises": "795",
+      "nometodospaises": "Turquemenist\u00e3o"
+    },
+    {
+      "idtodospaises": "230",
+      "isotodospaises": "TR",
+      "iso3todospaises": "TUR",
+      "numcodetodospaises": "792",
+      "nometodospaises": "Turquia"
+    },
+    {
+      "idtodospaises": "231",
+      "isotodospaises": "TV",
+      "iso3todospaises": "TUV",
+      "numcodetodospaises": "798",
+      "nometodospaises": "Tuvalu"
+    },
+    {
+      "idtodospaises": "232",
+      "isotodospaises": "UA",
+      "iso3todospaises": "UKR",
+      "numcodetodospaises": "804",
+      "nometodospaises": "Ucr\u00e2nia"
+    },
+    {
+      "idtodospaises": "233",
+      "isotodospaises": "UG",
+      "iso3todospaises": "UGA",
+      "numcodetodospaises": "800",
+      "nometodospaises": "Uganda"
+    },
+    {
+      "idtodospaises": "234",
+      "isotodospaises": "UY",
+      "iso3todospaises": "URY",
+      "numcodetodospaises": "858",
+      "nometodospaises": "Uruguai"
+    },
+    {
+      "idtodospaises": "235",
+      "isotodospaises": "UZ",
+      "iso3todospaises": "UZB",
+      "numcodetodospaises": "860",
+      "nometodospaises": "Usbequist\u00e3o"
+    },
+    {
+      "idtodospaises": "236",
+      "isotodospaises": "VU",
+      "iso3todospaises": "VUT",
+      "numcodetodospaises": "548",
+      "nometodospaises": "Vanuatu"
+    },
+    {
+      "idtodospaises": "237",
+      "isotodospaises": "VA",
+      "iso3todospaises": "VAT",
+      "numcodetodospaises": "336",
+      "nometodospaises": "Vaticano"
+    },
+    {
+      "idtodospaises": "238",
+      "isotodospaises": "VE",
+      "iso3todospaises": "VEN",
+      "numcodetodospaises": "862",
+      "nometodospaises": "Venezuela"
+    },
+    {
+      "idtodospaises": "239",
+      "isotodospaises": "VN",
+      "iso3todospaises": "VNM",
+      "numcodetodospaises": "704",
+      "nometodospaises": "Vietname"
+    },
+    {
+      "idtodospaises": "240",
+      "isotodospaises": "VI",
+      "iso3todospaises": "VIR",
+      "numcodetodospaises": "850",
+      "nometodospaises": "Virgens Americanas, Ilhas"
+    },
+    {
+      "idtodospaises": "241",
+      "isotodospaises": "VG",
+      "iso3todospaises": "VGB",
+      "numcodetodospaises": "92",
+      "nometodospaises": "Virgens Brit\u00e2nicas, Ilhas"
+    },
+    {
+      "idtodospaises": "242",
+      "isotodospaises": "WF",
+      "iso3todospaises": "WLF",
+      "numcodetodospaises": "876",
+      "nometodospaises": "Wallis e Futuna"
+    },
+    {
+      "idtodospaises": "243",
+      "isotodospaises": "ZM",
+      "iso3todospaises": "ZMB",
+      "numcodetodospaises": "894",
+      "nometodospaises": "Z\u00e2mbia"
+    },
+    {
+      "idtodospaises": "244",
+      "isotodospaises": "ZW",
+      "iso3todospaises": "ZWE",
+      "numcodetodospaises": "716",
+      "nometodospaises": "Zimbabwe"
+    }
+  ]
+}
