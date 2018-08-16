@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"encoding/json"
 	"github.com/aghape/geonames/models"
-	"github.com/jinzhu/gorm"
+	"github.com/moisespsena-go/aorm"
 	"fmt"
 	"hash/fnv"
 	"strings"
@@ -139,7 +139,7 @@ func Parse() {
 	}
 }
 
-func Import(db *gorm.DB) {
+func Import(db *aorm.DB) {
 	_, filename, _, ok := runtime.Caller(0)
 	if !ok {
 		panic("No caller information")

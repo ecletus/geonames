@@ -1,13 +1,13 @@
 package geonames
 
 import (
-	"github.com/jinzhu/gorm"
+	"github.com/moisespsena-go/aorm"
 	"github.com/aghape/aghape/helpers"
 	"github.com/aghape/geonames/models"
 	"fmt"
 )
 
-func MigrateDB(db *gorm.DB) {
+func MigrateDB(db *aorm.DB) {
 	country := db.NewScope(&models.GeoNamesCountry{})
 	state := db.NewScope(&models.GeoNamesState{})
 	key, err := helpers.CheckReturnError(
