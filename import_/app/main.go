@@ -1,6 +1,6 @@
 package main
 
-import "github.com/aghape/geonames/import_"
+import "github.com/ecletus/geonames/import_"
 
 func main() {
 	import_.Parse()

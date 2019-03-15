@@ -2,8 +2,8 @@ package geonames
 
 import (
 	"github.com/moisespsena-go/aorm"
-	"github.com/aghape/aghape/helpers"
-	"github.com/aghape/geonames/models"
+	"github.com/ecletus/ecletus/helpers"
+	"github.com/ecletus/geonames/models"
 	"fmt"
 )
 

@@ -5,7 +5,7 @@ import (
 	"path"
 	"io/ioutil"
 	"encoding/json"
-	"github.com/aghape/geonames/models"
+	"github.com/ecletus/geonames/models"
 	"github.com/moisespsena-go/aorm"
 	"fmt"
 	"hash/fnv"
